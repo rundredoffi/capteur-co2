@@ -7,9 +7,6 @@ Bienvenue dans le projet Capteur CO2 ! Ce projet vise à mesurer les niveaux de 
 - [Matériel utilisé](#matériel-utilisé)
 - [Configuration](#configuration)
 - [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Contributions](#contributions)
-- [Licence](#licence)
 
 ## Matériel utilisé
 
