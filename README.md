@@ -49,7 +49,7 @@ Avant de commencer, assurez-vous d'avoir tous les composants matériels nécessa
 ## Installation
 
 1. Clonez ce dépôt sur votre machine locale.
-   ```bash
+   ```
    git clone https://github.com/votre-utilisateur/votre-projet.git
    ```
 2. Naviguez vers le répertoire du projet.
