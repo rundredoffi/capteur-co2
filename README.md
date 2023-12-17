@@ -18,7 +18,6 @@ Bienvenue dans le projet Capteur CO2 ! Ce projet vise à mesurer les niveaux de 
 - **Afficheur:** [Écran LCD Grove](https://www.gotronic.fr/art-afficheur-lcd-2x16-grove-104030001-21308.htm)
 - **Autres composants:** [ServoMoteur](https://www.gotronic.fr/art-servomoteur-grove-316010005-20640.htm)
 
-````markdown
 ## Configuration
 
 Avant de commencer, assurez-vous d'avoir tous les composants matériels nécessaires pour le projet. Voici comment configurer chaque composant en tenant compte des ports de connexion spécifiés :
@@ -64,4 +63,3 @@ Avant de commencer, assurez-vous d'avoir tous les composants matériels nécessa
 
 4. Téléversez le code sur l'Arduino à l'aide de l'IDE Arduino.
    Assurez-vous d'ajuster ces instructions en fonction des spécificités de votre projet et des composants réels que vous utilisez.
-````
