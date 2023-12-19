@@ -50,13 +50,14 @@ Avant de commencer, assurez-vous d'avoir tous les composants matériels nécessa
    git clone https://github.com/rundredoffi/capteur-co2
    ```
 2. Naviguez vers le répertoire du projet.
+   ```
    cd capteur-co2
-
-3. Installez les bibliothèques nécessaires en utilisant l'IDE Arduino. Assurez-vous d'installer les bibliothèques suivantes :
+   ```
+4. Installez les bibliothèques nécessaires en utilisant l'IDE Arduino. Assurez-vous d'installer les bibliothèques suivantes :
 
    - [DHT by Adafruit](https://github.com/adafruit/DHT-sensor-library)
    - [Grove RGB](https://github.com/Seeed-Studio/Grove_LCD_RGB_Backlight/archive/master.zip)
    - [SGP 30](https://github.com/adafruit/Adafruit_SGP30)
 
-4. Téléversez le code sur l'Arduino à l'aide de l'IDE Arduino.
+5. Téléversez le code sur l'Arduino à l'aide de l'IDE Arduino.
    Assurez-vous d'ajuster ces instructions en fonction des spécificités de votre projet et des composants réels que vous utilisez.
